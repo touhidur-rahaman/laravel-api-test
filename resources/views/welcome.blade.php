@@ -17,6 +17,8 @@
         <style>
             body {
                 font-family: 'Nunito', sans-serif;
+                color: #0000;
+                
             }
         </style>
     </head>
